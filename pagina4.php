@@ -19,7 +19,7 @@ session_start();
 						 <br>
 						 <span class="text">Sua reposta: <?php echo $p1;?></span>
 						 <br><br>
-						 <span class="title">Resposta correta: Alan</span>
+						 <span class="title">Resposta correta: Ivone</span>
 						 <br>
 						 <span class="text">Sua reposta: <?php echo $p2;?></span>
 						<br><br>
