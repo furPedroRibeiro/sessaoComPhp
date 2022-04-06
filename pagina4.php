@@ -15,7 +15,7 @@ session_start();
 					<fieldset>
           <?php echo $name;?> seus resultados:
              <br><br>
-						 <span class="title">Resposta correta: 81</span>
+						 <span class="title">Resposta correta: 0</span>
 						 <br>
 						 <span class="text">Sua reposta: <?php echo $p1;?></span>
 						 <br><br>
